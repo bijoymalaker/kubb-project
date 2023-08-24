@@ -202,20 +202,20 @@ body{
     text-transform: uppercase;
     color: #444444;
 }
-.about-me .card-title{
+.about-me .card-title,.my-services .card-title{
     font-family: 'Roboto Slab', serif;
     font-weight:300;
     font-size: 18px;
     color: #6f6f6f;
 
 }
-.about-me .card-text{
+.about-me .card-text ,.my-services .card-text{
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 14px;
     color: #666666;
 }
-.about-me .card{
+.about-me .card, .my-services .card {
     border: transparent;
 }
 /* Description Part end  */
