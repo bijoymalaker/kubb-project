@@ -186,4 +186,36 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+.blog-part .text-body-secondary{
+    border-bottom: 1px solid #28b8d8 ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+}
 /* blogger post end  */
+
+/* Description Part start  */
+.about-me h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #444444;
+}
+.about-me .card-title{
+    font-family: 'Roboto Slab', serif;
+    font-weight:300;
+    font-size: 18px;
+    color: #6f6f6f;
+
+}
+.about-me .card-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #666666;
+}
+.about-me .card{
+    border: transparent;
+}
+/* Description Part end  */
