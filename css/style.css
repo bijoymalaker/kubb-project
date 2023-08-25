@@ -195,7 +195,7 @@ body{
 /* blogger post end  */
 
 /* Description Part start  */
-.about-me h3{
+.about-me h3, .my-services h3{
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -219,3 +219,33 @@ body{
     border: transparent;
 }
 /* Description Part end  */
+
+/* footer part start  */
+#footer-part{
+    background-color: #373737;
+}
+.get-in-section h4{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    color: #f0f0f0;
+    text-transform: uppercase;
+}
+.get-in-section p, address{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #cacaca;
+}
+.post-section .date{
+    font-family: 'Roboto', sans-serif;
+    color: #929292;
+}
+#footer-part h3{
+    background-color: #333333;
+    color: #cacaca;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+/* footer part end  */
